@@ -1,0 +1,17 @@
+{
+  "policies": {
+    "agentA": [
+      "read"
+    ]
+  },
+  "records": [
+    {
+      "agent": "agentA",
+      "permission": "read"
+    },
+    {
+      "agent": "agentB",
+      "permission": "write"
+    }
+  ]
+}
